@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>html02</title>
+	<style type="text/css">
+		ol li
+			{
+				
+				display: inline-block;
+				line-height:20px;
+				text-align: left;
+				position: relative;
+
+			}
+		
+		
+		ol,ul
+			{
+				background-color:purple;
+				list-style: none;
+				padding: 0;
+				
+			}
+		a
+			{
+				padding: 8px 25px;
+				color: white;
+				text-decoration: none;
+				display: block;
+			}
+		ol li a:hover,ul li a:hover
+			{
+				color: pink;
+				background: violet;
+
+			}
+
+		ol li ul#drop
+			{
+        		min-width: 100%; 
+        		background: #f2f2f2;
+        		display: none;
+        		position: absolute;
+        		z-index: 999;
+        		left: 0;
+        	}
+		ol li:hover ul#drop
+		 	{
+            	display: block;
+            }
+        ol li ul#drop li
+        	{
+        		display: block;
+    		}
+	</style>
+</head>
+<body>
+<ol>
+	<li><a href="#home">HOME</a></li>
+	<li><a href="#ofcrs">OFFLINE COURSES</a>
+		<ul id="drop">
+			<li>java</li>
+			<li>php</li>
+		</ul>
+	</li>
+	<li><a href="#oncrs">ONLINE COURSES</a></li>
+	<li><a href="#contct">CONTACT</a></li>
+	<li><a href="#abt">ABOUT US</a></li>
+</ol>
+</body>
+</html>

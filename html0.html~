@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>html0</title>
+	<style type="text/css">
+		img
+			{
+				position: absolute;
+				z-index: -1;
+			}
+		p
+			{
+				color: #FFFFFF;
+				font-style: italic;
+			}
+	</style>
+</head>
+<body>
+<img src="scn3.jpg" width="90%" height="500">
+<p>ASWANI</p>
+<p>Email:aswanipcachu5@gmail.com</p>
+</body>
+</html>

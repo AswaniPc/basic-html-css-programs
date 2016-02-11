@@ -1,0 +1,178 @@
+
+#hd1
+{   
+    position:absolute;
+	right:100;
+	padding:1px;
+	background-color:black;
+}
+#hd2
+{
+	padding:60px;
+	background-color:#347391;
+}
+#hd3
+{
+	padding:5px;
+	background-color:#9F000F;
+}
+#login
+{
+	color:#F5FFFA;
+	text-align:left;
+	margin-left:30px;
+	font-size:20px;
+}
+#line
+{
+	padding:0.5px;
+
+}
+
+#hd li
+{
+	display:inline-block;
+	border: 1px solid #347391;
+    padding: 5px 10px; 
+    background: #347391;
+    width: 60px;
+    border-radius: 5px;
+    font-size:12px;
+ }
+#search
+{
+	border: 1px solid #2B547E;
+    padding: 5px 15px; 
+    background: #2B547E ;
+    width: 320px;
+    height:40px;
+    border-radius: 5px;
+}
+#intro
+{
+	margin:50;
+}
+
+p{
+	margin-left: 30%;
+
+}
+
+#services
+{
+	border-radius:5px;
+	width:400;
+	height:230;
+	background-color:#BBBDBC;
+	border:1px solid #898788;
+}
+#hdr
+{
+	position: absolute;
+	display: block;
+	background-color:white;
+	color: red;
+	left:20;
+	top:0;
+	margin:10;
+
+
+}
+
+#news
+{
+	border-radius:5px;
+	width:400;
+	height:230;
+	background-color:#6C96BF;
+	border:1px solid #202A68;
+}
+#homedelivery
+{
+	border-radius:5px;
+	width:200;
+	height:100;
+	text-align:center;
+	background-color:#880000;
+	border:1px solid #280025;
+}
+#mainback
+{
+	background-color:#F2F3F2;
+}
+#categoryname
+{
+	color:#9F000F;
+}
+#foot
+{
+	padding:5px;
+	background-color:#347391;
+}
+a
+{
+	color:white;
+	text-decoration: none;
+  	display: block;
+  	padding-left: 0px;
+  	transition: .3s background-color;	
+}
+li
+{
+    border-bottom: none;
+    text-align: right;
+    display: inline-block;
+    margin-right: -1px;
+    font-family: 'Arial';
+    font-size: 1.2em;
+}
+#go
+{
+	border-radius:5px;
+	font-weight:600;
+
+}
+#tex
+{
+	 
+    border: 3px solid #800517; 
+    background-color:#800000;
+} 
+ #box
+{
+	border: 3px solid #347391; 
+	background-color:#347391;
+ }  
+
+#left
+{
+	position:absolute;
+	
+	top:90;
+	left:0;
+	margin:0;
+}
+#right
+{
+	position: absolute;	
+	top:10;
+	right:0;
+	margin:0;
+}
+.welcomeimage
+{
+	width:70px ;
+	height:60px;
+	border:1px solid #D3D3D3;
+	border-radius:5px;
+}
+
+.readmore
+{
+	width:80;
+	height:25;
+	font-color:white;
+	background-color:#347391;
+	border:1px solid #347391;
+}
+

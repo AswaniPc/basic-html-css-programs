@@ -1,0 +1,45 @@
+<html>
+<body>
+<form>
+<table border="1" align="center">
+	<tr> 
+	     <th colspan="3"> ONLINE SHOPING</th></tr>
+	<tr> 
+		 <td rowspan="2"><img  src="6.jpg" width=200 height=200 ></td>
+		 <td>payment</td>
+		 <td>
+		 	<input type="radio" name="payment" value="online"> online
+		 	<input type="radio" name="payment" value="ondelivery"> ondelivery
+		 </td></tr>
+	<tr> 
+		 <td>total</td>
+		 <td> 
+		 <label> 55555</label>
+		  </td></tr>
+	<tr> 
+		 <td>Brand</td>
+		 <td colspan="2"> 
+		 <select>
+		 	<option>a</option>
+		 	<option>b</option>
+		 	<option>c</option>
+		 </select>
+		 </td></tr>
+	<tr> 
+		 <td>Accessories</td>
+		 <td colspan="2">
+		 <input type="checkbox" name="headset" value="headset">headset
+		 <input type="checkbox" name="flipcover" value="flipcover">flipcover
+		 </td></tr>
+	<tr> 
+		 <td colspan="2">
+		 <input type="submit" name="buy" value="buy"> </td>
+		 <td>
+		 <a href="" >go back </a>
+		 </td>
+	</tr>
+	
+</table>
+</form>
+</body>
+</html>

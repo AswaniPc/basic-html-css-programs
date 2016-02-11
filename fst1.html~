@@ -1,0 +1,24 @@
+<html>
+<body>
+<table border="1" align="center">
+	<tr> 
+	     <th colspan="3"> ONLINE SHOPING</th></tr>
+	<tr> 
+		 <td rowspan="2"><img src="sm2.png" height="2" width="1"></td>
+		 <td>purchase</td>
+		 <td>online</td></tr>
+	<tr> 
+		 <td>total</td>
+		 <td>   </td></tr>
+	<tr> 
+		 <td>Brand</td>
+		 <td colspan="2"> </td></tr>
+	<tr> 
+		 <td>Accessories</td>
+		 <td colspan="2"> </td></tr>
+	<tr> 
+		 <td colspan="2"> ok</td>
+		 <td>go back</td></tr>
+</table>
+</body>
+</html>
